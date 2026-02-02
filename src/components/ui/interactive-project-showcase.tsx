@@ -18,7 +18,7 @@ const projects3D: Project3D[] = [
     title: "AIRA Platform",
     icon: Bot,
     color: 0x00d9ff,
-    description: "Advanced conversational AI system",
+    description: "Offline B2B AI Calling agent built on faster-whisper for fast local transcription, TinyLlama via Ollama for lightweight, intelligent dialogue, Coqui TTS for lifelike, low-latency speech, Asterisk for real SIP-based call handling (designed for production use)",
     position: [-3, 2, 0],
     scale: 1.2
   },
