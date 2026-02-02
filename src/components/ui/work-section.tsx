@@ -9,10 +9,10 @@ const projects = [
     title: "AIRA Platform",
     icon: Bot,
     color: "cyber-blue",
-    description: "Advanced conversational AI system serving 500+ concurrent users",
+    description: "Offline B2B AI Calling agent built on faster-whisper for fast local transcription, TinyLlama via Ollama for lightweight, intelligent dialogue, Coqui TTS for lifelike, low-latency speech, Asterisk for real SIP-based call handling (designed for production use)",
     image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&h=400",
-    tech: ["Python", "LangChain", "AWS"],
-    metrics: { primary: "$15K+ pilot interest", secondary: "96% accuracy" },
+    tech: ["Python", "TTS", "STT"],
+    metrics: { primary: "", secondary: "" },
     actions: [ExternalLink, Github]
   },
   {
