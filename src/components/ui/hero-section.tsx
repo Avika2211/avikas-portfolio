@@ -161,7 +161,7 @@ export default function HeroSection() {
             <div className="text-xs text-gray-400">Harvard HPAIR Top</div>
           </div>
           <div className="glassmorphism p-4 rounded-xl text-center animate-slide-up" style={{animationDelay: '0.4s'}}>
-            <div ref={(el) => counterRefs.current[1] = el} className="text-2xl font-bold neon-purple">500+</div>
+            <div ref={(el) => counterRefs.current[1] = el} className="text-2xl font-bold neon-purple">50+</div>
             <div className="text-xs text-gray-400">Concurrent Users</div>
           </div>
           <div className="glassmorphism p-4 rounded-xl text-center animate-slide-up" style={{animationDelay: '0.6s'}}>
