@@ -32,9 +32,7 @@ MIT CSAIL Fellow • Cambridge Researcher • Harvard Impact Winner
 
 🏆 Top 0.0012% Harvard HPAIR Delegate (83,000+ applicants)
 🔬 Research Fellow at MIT CSAIL & University of Cambridge  
-🚀 Production AI Systems serving 500+ concurrent users
-📦 1,200+ downloads on PyPI package
-💰 Generated $15K+ pilot interest with AIRA platform
+🚀 Production AI Systems serving 50+ concurrent users
 
 [Animated CTA Button: "Explore My Universe"] [CTA: "Download Resume"]
 Interactive Features:
@@ -100,8 +98,8 @@ FEATURED PROJECTS:
 🤖 AIRA Platform
 Advanced conversational AI system serving 500+ concurrent users
 
-Tech Stack: Python, LangChain, RAG, Docker, AWS
-Impact: $15K+ pilot interest, 96% conversation accuracy
+Tech Stack: Python, TTS, STT
+Impact: 
 Features: Multi-turn conversations, context awareness, production-ready
 
 [Live Demo] [GitHub] [Technical Deep-Dive]
@@ -237,4 +235,5 @@ This portfolio should make every recruiter think: "Holy shit, how did she build 
 The combination of exceptional content, cutting-edge 3D visuals, and interactive features should position Avika as the most impressive candidate they've ever seen.
 
 Create something that's not just a portfolio, but an experience that showcases her as a visionary AI/ML engineer ready to build the future.
+
 
