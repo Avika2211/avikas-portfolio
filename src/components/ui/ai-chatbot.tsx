@@ -49,9 +49,9 @@ const KNOWLEDGE_BASE = {
   projects: {
     aira: {
       name: "AIRA Platform",
-      description: "Production conversational AI serving 500+ users",
-      metrics: "96% accuracy, $15K+ pilot interest",
-      tech: ["Python", "LangChain", "AWS"]
+      description: "Production conversational AI system",
+      metrics: "TTS, STT and fully offline SIP based Agent",
+      tech: ["Python", "TTS", "STT"]
     },
     cv: {
       name: "Computer Vision Suite", 
@@ -62,12 +62,12 @@ const KNOWLEDGE_BASE = {
     climate: {
       name: "Climate AI Tools",
       description: "Large-scale environmental data processing",
-      metrics: "15K+ datasets, International research impact",
+      metrics: "Computer vision, International research impact",
       tech: ["MLOps", "Distributed Computing", "Python"]
     },
     opensource: {
       name: "Open Source Contributions",
-      description: "PyPI packages and research tools",
+      description: "Contributions to semantic climate community",
       metrics: "She's dynamic and diligent",
       tech: ["Python", "Research Tools"]
     }
